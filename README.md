@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently a **Class 10 student** with a deep curiosity for technology and innovation.
 - 🧑‍💻 Passionate about:
-  - **CW Radio Communication** (Yes, Morse code and old-school waves fascinate me!)
+  - **CW Radio Communication** (Yes, Morse code and old-school waves fascinate me!)(My call sign : 57HS10164)
   - **Ethical Hacking** and cybersecurity 🛡️
   - **Programming** — turning ideas into reality through code ⚙️
 - 🛠️ I love building things, breaking them ethically, and learning from both!
